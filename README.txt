@@ -7,7 +7,7 @@ Las imagenes deben tener un size de 640 x 600.
 
 Para modificar productos, se debe de seleccionar que tipo de producto es con los radio buttons (skincare o makeup), de lo contrario no modificara nada.
 
-La cuenta de admin es,
+La cuenta de admin es,,
 User: admin@gmail.com
 Pass: 123
 
